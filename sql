@@ -1,4 +1,4 @@
-SQL filtering versus Linux filtering
+SQL filtering versus Linux filtering - Y. Ahmed
 
 Accessing SQL -
   
